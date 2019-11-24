@@ -1,0 +1,16 @@
+{
+  "id": "airtable",
+  "name": "Airtable",
+  "version": "1.0.0",
+  "description": "Airtable integration for Franz",
+  "main": "index.js",
+  "author": "Julian Präsent <julian.praesent@gmail.com>",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/Shippeyy/Franz-Airtable-Integration",
+  "config": {
+    "serviceURL": "https://airtable.com",
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasCustomUrl": false
+  }
+}
